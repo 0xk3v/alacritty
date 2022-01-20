@@ -1,1 +1,1 @@
-#Alacritty Config
+# Alacritty Config

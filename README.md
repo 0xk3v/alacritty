@@ -1,4 +1,4 @@
 # Alacritty Config
 
 
-My alacritty config files in `.yaml
+My alacritty config files in `.yaml`
